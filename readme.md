@@ -11,4 +11,7 @@
     texto sendo digitado
 
 
+![titulo da imagem](image.jpg)
+
+
 abcdefghij
