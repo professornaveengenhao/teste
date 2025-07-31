@@ -10,6 +10,9 @@
 
     texto sendo digitado
 
+---
+texto foi separado
+
 
 ![titulo da imagem](image.jpg)
 
